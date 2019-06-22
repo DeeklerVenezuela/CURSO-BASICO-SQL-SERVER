@@ -1,0 +1,3 @@
+SQL Server Developer 2017: https://go.microsoft.com/fwlink/?linkid=853016
+
+SQL Server Management Studio: https://go.microsoft.com/fwlink/?linkid=2088649
